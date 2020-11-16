@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-original_image = cv2.imread('images/someshapes.jpg')
+original_image = cv2.imread('Data/someshapes.jpg')
 print("Shape: Original Image", original_image.shape)
 
 # Converting to grayscale
