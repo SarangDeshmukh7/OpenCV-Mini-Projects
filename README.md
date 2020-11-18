@@ -1,4 +1,4 @@
-# 10 OpenCV mini projects
+# 10 OpenCV projects for begineers
 
 ### Table of content
 
