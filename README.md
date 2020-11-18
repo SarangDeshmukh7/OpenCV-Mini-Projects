@@ -3,8 +3,8 @@
 ### Table of content
 
 - Project 01 - Drawing on Live Camera
-- Project 02 - Real Time Color Detection
-- Project 03 - Find Shapes
+- Project 02 - Find Shapes
+- Project 03 - Real Time Color Detection
 - Project 04 - Angle Indentification
 - Project 05 - Face Recognition
 - Project 06 - Emotion Recognition
