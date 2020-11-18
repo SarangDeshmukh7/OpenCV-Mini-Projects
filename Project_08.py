@@ -8,6 +8,32 @@ import cv2
 #tracker = cv2.TrackerTLD_create()
 #tracker = cv2.TrackerMedianFlow_create()
 #tracker = cv2.TrackerCSRT_create()
+'''
+tracker_types = ['BOOSTING', 'MIL', 'KCF', 'TLD', 'MEDIANFLOW', 'GOTURN', 'MOSSE', 'CSRT']
+tracker_type = tracker_types[2]
+
+if int(minor_ver) < 3:
+    tracker_class = cv2.Tracker_create(tracker_type)
+else:
+    if tracker_type == 'BOOSTING':
+        tracker_class = cv2.TrackerBoosting_create
+    elif tracker_type == 'MIL':
+        tracker_class = cv2.TrackerMIL_create
+    elif tracker_type == 'KCF':
+        tracker_class = cv2.TrackerKCF_create
+    elif tracker_type == 'TLD':
+        tracker_class = cv2.TrackerTLD_create
+    elif tracker_type == 'MEDIANFLOW':
+        tracker_class = cv2.TrackerMedianFlow_create
+    # elif tracker_type == 'GOTURN':
+    #     tracker = cv2.TrackerGOTURN_create()
+    elif tracker_type == 'MOSSE':
+        tracker_class = cv2.TrackerMOSSE_create
+    elif tracker_type == "CSRT":
+        tracker_class = cv2.TrackerCSRT_create
+        
+'''
+
 tracker = cv2.TrackerMOSSE_create()
 
 ########################################################
