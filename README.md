@@ -11,7 +11,7 @@
 - Project 07 - Live Face Swap
 - Project 08 - Object Tracker
 - Project 09 - QR Code Scanner
-- Project 10 - Harry Potter Invisible Cloak
+- Project 10 - Invisible Cloak
 
 
 OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
