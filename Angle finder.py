@@ -1,4 +1,4 @@
-In this project. We will first define two lines using mouse clicks and then find the angle between theses lines using simple mathematics.
+#In this project. We will first define two lines using mouse clicks and then find the angle between theses lines using simple mathematics.
 
 import cv2
 import math
