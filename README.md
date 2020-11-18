@@ -5,7 +5,7 @@
 - Project 01 - Real Time Color Detection
 - Project 02 - Drawing on Live Camera
 - Project 03 - Find Shapes
-- Project 04 - Angle Finder
+- Project 04 - Angle Indentification
 - Project 05 - Face Recognition
 - Project 06 - Emotion Recognition
 - Project 07 - Live Face Swap
