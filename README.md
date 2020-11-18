@@ -5,13 +5,13 @@
 - Project 01 - Real Time Color Detection
 - Project 02 - Drawing on Live Camera
 - Project 03 - Find Shapes
-- Project 04 - Angle finder
-- Project 05 - Face recognition
-- Project 06 - Emotion recognition
+- Project 04 - Angle Finder
+- Project 05 - Face Recognition
+- Project 06 - Emotion Recognition
 - Project 07 - Live Face Swap
-- Project 08 - Document Scanner
+- Project 08 - Object Tracker
 - Project 09 - QR Code Scanner
-- Project 10 - Harry potter Invisible Cloak
+- Project 10 - Harry Potter Invisible Cloak
 
 
 OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
