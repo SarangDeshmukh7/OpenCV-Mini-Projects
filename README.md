@@ -4,7 +4,7 @@
 
 - Project 01 - Drawing on Live Camera
 - Project 02 - Find Shapes
-- Project 03 - Angle Indentification
+- Project 03 - Angle Measurement
 - Project 04 - Real Time Color Detection
 - Project 05 - Face Recognition
 - Project 06 - Emotion Recognition
