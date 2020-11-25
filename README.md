@@ -1,4 +1,4 @@
-# 10 OpenCV projects for begineers
+# 10 OpenCV Projects For Begineers
 
 ### Table of content
 
